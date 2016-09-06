@@ -1,4 +1,5 @@
 # hello-world
 Just anther repository
-My English is very poor
-I hope to study this course 
+1. Hi master
+   I want to study this course
+   Can you help me 
